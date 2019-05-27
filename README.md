@@ -1,2 +1,2 @@
 # TimeSeries with AirPassengers data.
-To run code open
+Open timeseries.ipynb to see result
